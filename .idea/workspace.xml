@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c7547c2-6f35-4e85-9183-1b3392275dd6" name="Default Changelist" comment="" />
+    <list default="true" id="1c7547c2-6f35-4e85-9183-1b3392275dd6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rQCfQPSnc5Wr5cr4iCUS3Xtaea" />
   <component name="ProjectViewState">
@@ -29,11 +42,25 @@
       <workItem from="1618899034092" duration="2709000" />
       <workItem from="1619116824086" duration="3776000" />
       <workItem from="1619193461843" duration="2122000" />
-      <workItem from="1619251172804" duration="3609000" />
+      <workItem from="1619251172804" duration="4336000" />
+      <workItem from="1619285819365" duration="647000" />
+      <workItem from="1619582847229" duration="4203000" />
+      <workItem from="1619606060132" duration="1073000" />
+      <workItem from="1619620580766" duration="6706000" />
+      <workItem from="1619705292467" duration="2966000" />
+      <workItem from="1619716236160" duration="794000" />
+      <workItem from="1619797078850" duration="1117000" />
+      <workItem from="1619967074511" duration="2159000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="893" y="259" key="search.everywhere.popup" timestamp="1619606075690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="893" y="259" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1619606075690" />
   </component>
 </project>
